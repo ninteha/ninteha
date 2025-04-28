@@ -2,7 +2,7 @@
   <img src="https://giffiles.alphacoders.com/222/222022.gif" width="500"/> 
   <br/>
   
-  ![ninteha's reality distortion field](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=26&pause=1000&center=true&vCenter=true&width=435&lines=Honestly+nthing+-_-)
+  ![ninteha's reality distortion field](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=26&pause=1000&center=true&vCenter=true&width=435&lines=All+The+Puzzles+Align.)
 </div>
 
 

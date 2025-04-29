@@ -5,7 +5,6 @@
   ![ninteha's reality distortion field](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=26&pause=1000&center=true&vCenter=true&width=435&lines=All+The+Puzzles+Align.)
 </div>
 
-
 ### **Current Stack 💎**  
 
 ---
@@ -14,6 +13,8 @@
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Angular Elements](https://img.shields.io/badge/-Angular_Elements-DD0031?style=flat-square&logo=angular)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
@@ -34,6 +35,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 
 ---
+
 <div align="center">
   
    ![visitors](https://api.visitorbadge.io/api/VisitorHit?user=ninteha&repo=github-visitors-badge&countColor=%EB420A)  

@@ -13,8 +13,6 @@
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Angular Elements](https://img.shields.io/badge/-Angular_Elements-DD0031?style=flat-square&logo=angular)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
@@ -30,7 +28,6 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)
-![AWS S3](https://img.shields.io/badge/-AWS_S3-569A31?style=flat-square&logo=amazons3)
 ![JWT](https://img.shields.io/badge/-JWT_Authentication-000000?style=flat-square&logo=jsonwebtokens)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 
